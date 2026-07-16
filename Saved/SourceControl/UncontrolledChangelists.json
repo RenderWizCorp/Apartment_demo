@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"K:/Demos/apartment_Demo/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"K:/Demos/apartment_Demo/Content/__ExternalActors__/Level/Apartment_Demo/3/6F/SFGLSFOISAGNQ3B6CQSPJ9.uasset",
+				"K:/Demos/apartment_Demo/Content/__ExternalActors__/Level/Apartment_Demo/A/SB/245A01P1EV04FOEUE4NX82.uasset"
+			]
+		}
+	]
+}
